@@ -45,27 +45,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "TestNG.SortingTest.testSortByNameAscending.executor": "Run",
-    "TestNG.SortingTest.testSortByNameDescending.executor": "Run",
-    "git-widget-placeholder": "ft/setup",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/git-devops-ci-cd-gate/src/main/java/git-devops/project/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.SortingTest.testSortByNameAscending.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.SortingTest.testSortByNameDescending.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;ft/setup&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/IdeaProjects/git-devops-ci-cd-gate/src/main/java/git-devops/project/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\git-devops-ci-cd-gate\resources" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.SortingTest.testSortByNameDescending">
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
     <configuration name="SortingTest.testSortByNameAscending" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="git-devops-ci-cd-gate" />
       <option name="PACKAGE_NAME" value="" />
