@@ -50,7 +50,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.SortingTest.testSortByNameAscending.executor": "Run",
     "TestNG.SortingTest.testSortByNameDescending.executor": "Run",
-    "git-widget-placeholder": "#1 on ft/setup",
+    "git-widget-placeholder": "ft/pipeline",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/User/IdeaProjects/git-devops-ci-cd-gate/src/main/java/git-devops/project/Main.java"
